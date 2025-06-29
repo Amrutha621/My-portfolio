@@ -13,7 +13,7 @@ I'm Amrutha K A, a Computer Science (Cybersecurity) student passionate about tec
 
 ## 🔗 Live Site
 
-🌍 [Click here to view my portfolio](https://your-username.github.io/your-repo-name/)
+🌍 [Click here to view my portfolio](https://amrutha621.github.io/My-portfolio/)
 
 > Built with curiosity for learning and growing in tech.
 
