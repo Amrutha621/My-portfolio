@@ -1,5 +1,5 @@
 # My-portfolio
-#  Personal Portfolio
+
 
 Welcome to my personal portfolio website!  
 I'm Amrutha K A, a Computer Science (Cybersecurity) student passionate about technology, problem-solving, and innovation. This site showcases my projects, skills, certifications, volunteering activities, and more.
